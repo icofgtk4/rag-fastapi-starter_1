@@ -1,2 +1,3 @@
 # Project Update
 Polish UI interactions
+Draft social post plan
